@@ -10,7 +10,7 @@ Tanmay Pathak | Product Manager Portfolio
 This repository contains the source code for my personal portfolio website, built to showcase my skills, professional experience, and journey in Product Management.
 <br />
 <br />
-<strong><a href="https://www.google.com/search?q=https://www.productbytanmay.com/">View Live Site »</a></strong>
+<strong><a href="https://www.productbytanmay.com/">View Live Site »</a></strong>
 </p>
 
 📋 Table of Contents
