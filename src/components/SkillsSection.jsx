@@ -21,7 +21,7 @@ const educationData = [
 // --- Data for Professional Experience ---
 const experienceData = [
     {
-        role: "Strategic Lead",
+        role: "Product Manager Intern",
         company: "Ole",
         duration: "December 2023 – June 2024",
         description: "As Strategic Lead, I orchestrated the product strategy for a new, cutting-edge payment gateway. My focus was on aligning executive, engineering, and marketing teams around a unified vision to build a product that solved key market needs and could be delivered efficiently.",
@@ -52,7 +52,7 @@ const experienceData = [
         ]
     },
     {
-        role: "Product Analyst",
+        role: "Software Engineer",
         company: "Diacto Technologies",
         duration: "June 2020 – April 2021",
         description: "At Diacto, I focused on transforming the company's business intelligence infrastructure. My goal was to make data more reliable, accessible, and actionable for teams across the organization by optimizing systems and establishing clear governance.",
