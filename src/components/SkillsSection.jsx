@@ -32,9 +32,9 @@ const experienceData = [
     },
     {
         role: "Associate Product Manager",
-        company: "UBS Bank",
+        company: "Infosys",
         duration: "March 2022 – June 2023",
-        description: "At UBS, I owned the end-to-end lifecycle for an internal collaboration module designed to connect over 5,000 employees. I defined the product vision, guided its development through data-driven iteration, and led a successful go-to-market strategy that drove significant adoption.",
+        description: "At Infosys, I owned the end-to-end lifecycle for an internal collaboration module designed to connect over 5,000 employees. I defined the product vision, guided its development through data-driven iteration, and led a successful go-to-market strategy that drove significant adoption.",
         achievements: [
             "Launched a High-Impact Product: From vision to launch, I guided the development of a new collaboration tool, authoring PRDs that led to a 22% increase in employee engagement post-launch.",
             "Drove Insights with Data: I wrote SQL queries to analyze user adoption metrics, identifying underutilized features and surfacing the quantitative insights that directly informed our product roadmap and A/B testing priorities.",
@@ -42,9 +42,9 @@ const experienceData = [
         ]
     },
     {
-        role: "Product Analyst",
+        role: "Associate Consultant",
         company: "KPMG",
-        duration: "April 2021 – October 2021",
+        duration: "April 2021 – March 2022",
         description: "During my time at KPMG, I identified a critical opportunity to improve consultant efficiency. I developed the business case for a new workflow automation module and translated user feedback into actionable improvements, resulting in a product that was quickly adopted and valued.",
         achievements: [
             "Spearheaded a New Automation Tool: I built a compelling business case for a new module that modeled its potential impact, securing stakeholder buy-in and ultimately achieving a 30% adoption rate among consultants after launch.",
