@@ -42,24 +42,24 @@ const MemeHighlight = ({ children, memeUrl }) => (
             
             <p className="text-muted-foreground text-left">
               I recently graduated with a Master’s in Engineering Management from San José State University, 
-              with a focus on <Highlight color="purple">Product Management</Highlight>, <Highlight color="sky">Project Management</Highlight>, <Highlight color="teal">Systems Engineering</Highlight>, and other amazing stuff. 
-              Along the way, I strengthened my fundamentals in <Highlight color="sky">Product Management</Highlight> and Computer Science.
+              with a focus on Product Management, Project Management, Systems Engineering, and other amazing stuff. 
+              Along the way, I strengthened my fundamentals in Product Management and Computer Science.
             </p>
 
             <p className="text-muted-foreground text-left">
               I love digging into tricky problems and creating products that feel effortless. 
-              Most recently, at a <Highlight color="sky">fintech startup</Highlight>, I helped craft the <Highlight color="purple">product roadmap</Highlight> for a new payment gateway bringing the vision to life. 
-              Before that at my previous roles I got to build a <Highlight color="teal">collaboration tools</Highlight> from the ground up for thousands of employees. 
+              Most recently, at a fintech startup, I helped craft the product roadmap for a new payment gateway bringing the vision to life. 
+              Before that at my previous roles I got to build a collaboration tools from the ground up for thousands of employees. 
             </p>
 
             <p className="text-muted-foreground text-left">
-              My journey from getting my hands dirty with <MemeHighlight memeUrl="/memes/code.jpg">code</MemeHighlight> to leading the <Highlight color="purple">product strategy</Highlight> gives me a unique perspective, 
+              My journey from getting my hands dirty with <MemeHighlight memeUrl="/memes/code.jpg">code</MemeHighlight> to leading the product strategy gives me a unique perspective, 
               I love figuring out what to build just as much as I love understanding how it gets built. 
-              I thrive on being the <Highlight color="teal">bridge between the technical and business worlds</Highlight>, keeping everyone aligned and focused on shipping great products. 
+              I thrive on being the bridge between the technical and business worlds, keeping everyone aligned and focused on shipping great products. 
             </p>
             
             <p className="text-muted-foreground text-left">
-              I'm now looking for my next <Highlight color="purple">Product Manager</Highlight> or <Highlight color="sky">Technical Program Manager</Highlight> role. Think we're a match?
+              I'm now looking for my next Product Manager or Technical Program Manager role. Think we're a match?
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center md:justify-start">
