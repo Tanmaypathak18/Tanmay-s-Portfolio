@@ -21,9 +21,9 @@ const educationData = [
 // --- Data for Professional Experience ---
 const experienceData = [
     {
-        role: "Product Manager Intern",
+        role: "Product Manager",
         company: "Ole",
-        duration: "December 2023 – June 2024",
+        duration: "December 2024 – Present",
         description: "As Strategic Lead, I orchestrated the product strategy for a new, cutting-edge payment gateway. My focus was on aligning executive, engineering, and marketing teams around a unified vision to build a product that solved key market needs and could be delivered efficiently.",
         achievements: [
             "Shaped the Product Roadmap: I synthesized insights from competitive analysis and stakeholder interviews to build a clear, actionable product roadmap. This secured crucial buy-in from leadership and reduced feature delivery delays by 20%.",
