@@ -20,18 +20,18 @@ const educationData = [
 
 // --- Data for Professional Experience ---
 const experienceData = [
-  //  {
-  //      role: "Product Manager",
-  //      company: "Stealth",
-  //      duration: "December 2024 – Present",
-  //      description: "As Product Manager, I orchestrated the product strategy for a new, cutting-edge payment gateway. My focus was on aligning executive, engineering, and marketing teams around a unified vision to build a product that solved key market needs and could be delivered efficiently.",
-  //     achievements: [
-  //          "Shaped the Product Roadmap: I synthesized insights from competitive analysis and stakeholder interviews to build a clear, actionable product roadmap. This secured crucial buy-in from leadership and reduced feature delivery delays by 20%.",
-  //          "Drove Engineering Execution: I translated the roadmap into a prioritized backlog for a team of 8 engineers, using a value-vs-effort framework to define over 50 user stories. This brought clarity to the development process and improved bug resolution time by 15%."
-  //      ]
-  //  },
     {
-        role: "Associate Product Manager",
+        role: "AI Product Manager",
+        company: "Stealth",
+        duration: "March 2026 – Present",
+        description: "As Product Manager, I orchestrated the product strategy for a new, cutting-edge Cloud Native two-sided marketplace platform. My focus was on aligning executive, engineering, and marketing teams around a unified vision to build a product that solved key market needs and could be delivered efficiently.",
+       achievements: [
+            "Shaped the Product Roadmap: I synthesized insights from competitive analysis and stakeholder interviews to build a clear, actionable product roadmap. This secured crucial buy-in from leadership and reduced feature delivery delays by 20%.",
+            "Drove Engineering Execution: I translated the roadmap into a prioritized backlog for a team of 8 engineers, using a value-vs-effort framework to define over 50 user stories. This brought clarity to the development process and improved bug resolution time by 15%."
+        ]
+    },
+    {
+        role: "Product Manager",
         company: "Infosys",
         duration: "March 2022 – June 2023",
         description: "At Infosys, I owned the end-to-end lifecycle for an internal collaboration module designed to connect over 5,000 employees. I defined the product vision, guided its development through data-driven iteration, and led a successful go-to-market strategy that drove significant adoption.",
@@ -42,25 +42,15 @@ const experienceData = [
         ]
     },
     {
-        role: "Associate Consultant",
+        role: "Associate Product Manager",
         company: "KPMG",
-        duration: "April 2021 – March 2022",
+        duration: "June 2020 – March 2022",
         description: "During my time at KPMG, I identified a critical opportunity to improve consultant efficiency. I developed the business case for a new workflow automation module and translated user feedback into actionable improvements, resulting in a product that was quickly adopted and valued.",
         achievements: [
             "Spearheaded a New Automation Tool: I built a compelling business case for a new module that modeled its potential impact, securing stakeholder buy-in and ultimately achieving a 30% adoption rate among consultants after launch.",
             "Oversaw Technical Integrations: Serving as the bridge between product and engineering, I defined requirements for key API integrations, ensuring a seamless flow of data between platforms that was critical for the module's success."
         ]
     },
-    {
-        role: "Software Engineer",
-        company: "Diacto Technologies",
-        duration: "June 2020 – April 2021",
-        description: "At Diacto, I focused on transforming the company's business intelligence infrastructure. My goal was to make data more reliable, accessible, and actionable for teams across the organization by optimizing systems and establishing clear governance.",
-        achievements: [
-            "Optimized Analytics & Data Pipelines: By designing and automating data pipelines to consolidate sources across BI platforms (Power BI, Domo, Tableau), I reduced data refresh latency by 40% and empowered teams with self-service analytics, boosting adoption by 25%.",
-            "Established BI Governance: I rolled out a new governance framework, including KPI catalogs and release standards, which increased report reusability by 30% and made our entire analytics ecosystem more scalable and reliable."
-        ]
-    }
 ];
 
 // --- Data for Leadership & Volunteering ---
