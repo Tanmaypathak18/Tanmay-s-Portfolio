@@ -71,15 +71,12 @@ const MemeHighlight = ({ children, memeUrl }) => (
                 My Linkedin
               </a>
 
-              <a
-                href="\Tanmay Pathak Resume.pdf"
-                target="_blank" 
-                rel="noopener noreferrer"
-                /*download="Tanmay Pathak Resume.pdf"*/
+              <button
+                type="button"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 text-center"
               >
                 My Resume
-              </a>
+              </button>
             </div>
           </div>
 
